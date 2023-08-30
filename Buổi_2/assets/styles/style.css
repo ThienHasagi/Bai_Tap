@@ -1,0 +1,23 @@
+/* #student{
+    color: yellow;
+    font-size: 50px;
+    background-color: black;
+    width: 10px;
+}
+.ha-truong-thien{
+    color: red;
+    font-size: 100px;
+    background-color: green;
+    width: 200px;
+} */
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.circle{
+    border-radius: 50%;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
